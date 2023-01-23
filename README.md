@@ -17,3 +17,5 @@ This script will clone, clean, and push back a github repository.<br>
     <li>the name of the repository</li>
     <li>the name of the target repository; <github_username>/<repository></li>
       </ol>
+<br>
+This script may take approximately 30 minutes to complete.  When complete you can view the copied repository on github and review the "Active Branches" to determine any that may contain unmerged changes.
